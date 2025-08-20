@@ -9,8 +9,8 @@ It provides insights into sales, profit, quantity, categories, and customer beha
 ---
 
 ## 📂 Project Files
-- **Orders.xlsx** → Contains order-level information  
-- **Details.xlsx** → Contains product-level details  
+- **Orders.csv** → Contains order-level information  
+- **Details.csv** → Contains product-level details  
 - **Ecommerce_Sales_Dashboard.pbix** → Power BI project file  
 - **Ecommerce_Dashboard.png** → Dashboard screenshot  
 
