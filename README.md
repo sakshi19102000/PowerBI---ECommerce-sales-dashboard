@@ -17,7 +17,7 @@ It provides insights into sales, profit, quantity, categories, and customer beha
 ---
 
 ## 📊 Dashboard Preview
-![ECommerce Sales Dashboard](Ecommerce_Dashboard_image.png)
+![ECommerce Sales dashboard](Ecommerce_Dashboard_image.png)
 
 ---
 
